@@ -1,1 +1,2 @@
+Welcome to Git in main branch 
 Welcome to GitHub from feature branch.
